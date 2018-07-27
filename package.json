@@ -1,5 +1,5 @@
 {
-  "name": "react-native-studio",
+  "name": "react-native-android-studio",
   "version": "1.0.0",
   "description": "React Native plugin to open Android Studio via \"react native studio\"",
   "main": "index.js",
@@ -18,9 +18,9 @@
   "author": "Ray Deck",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rhdeck/react-native-ads/issues"
+    "url": "https://github.com/rhdeck/react-native-studio/issues"
   },
-  "homepage": "https://github.com/rhdeck/react-native-ads#readme",
+  "homepage": "https://github.com/rhdeck/react-native-studio#readme",
   "rnpm": {
     "plugin": "./plugin.js"
   }

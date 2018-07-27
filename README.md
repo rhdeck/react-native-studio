@@ -5,7 +5,7 @@ React Native plugin for quickly opening Android Studio from the command line. Cu
 # Usage
 
 ```
-yarn add react-native-studio
+yarn add react-native-android-studio
 react-native studio
 ```
 
