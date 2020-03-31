@@ -18,15 +18,17 @@ const f = (arg, args, options) => {
   return;
 };
 
-module.exports = [
-  {
-    name: "studio",
-    description: "Open Android Studio",
-    func: f
-  },
-  {
-    name: "android-studio",
-    description: "Open Android Studio",
-    func: f
-  }
-];
+module.exports = {
+  commands: [
+    {
+      name: "studio",
+      description: "Open Android Studio",
+      func: f
+    },
+    {
+      name: "android-studio",
+      description: "Open Android Studio",
+      func: f
+    }
+  ]
+};
